@@ -1,0 +1,19 @@
+{title:Hay un nombre nuevo en la gloria}
+{subtitle:Una vez perdido vivia yo}
+{key:G}
+
+[G]Una vez perdido vivia yo,
+[D]Lejos y vagante en e[G]rror;
+Mas la voz de Cristo me alcanzo,
+[A]Me llamo con tierno a[D]mor.
+
+{start_of_chorus}
+Hay un [G]nombre nuevo en la gloria,
+Mio [C]es, si, mio [G]es;
+Y los [D]angeles cantan la his[G]toria,
+Salv[A]o es el peca[D]dor.
+Oh, hay un [G]nombre nuevo en la gloria,
+Mio [C]es, si, mio [G]es;
+Todos [C]mis pe[D]cados ya son [G]perdona[C]dos,
+[G]Gloria [D]al Se[G]nor
+{end_of_chorus}

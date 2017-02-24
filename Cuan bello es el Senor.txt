@@ -1,0 +1,19 @@
+{title:Cuan bello es el Senor}
+{key: D}
+
+[Dmaj7]   Cuan bello es el Se[Em]nor
+[A]   Cuan hermoso es el Se[D]nor [Dmaj7]
+Cuan bello es el Se[Em]nor
+[A]   Hoy le quiero ado[D]rar
+
+{start_of_chorus}[D7]   La belleza de mi Se[G]nor
+[A]   nunca se agota[F#m]ra    [Bm]
+la hermosura de mi Sen[Em]or
+[A]   siempre resplandece[D]ra
+[D7]   La belleza de mi Sen[G]or
+[A]nunca se agota[F#m]ra    [Bm]
+La hermosura de mi Sen[Em]or
+[A]   siempre resplandece[D]ra   [Dmaj7]
+{end_of_chorus}
+
+
