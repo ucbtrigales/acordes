@@ -24,7 +24,8 @@ Que pri[C]mero la suya dio por [G]mi
 Que pri[Am]mero [G/B]me a[C/E]mo [F]
 {end_of_chorus}
 
-[Am](interludio) [G] [C/E] [F]
+Interludio 1:
+[Am] [G/B] [C/E] [F]
 
 Aunque la higuera no florezca...
 
@@ -32,7 +33,7 @@ Confio en ti...
 
 Coro: Y decido... (2 veces)
 
-Interludio:
+Interludio 1:
 [G](solo [F]teclado) [C]    [G]
 [Am](todos [F]los instrumentos)[C]    [G]
 
