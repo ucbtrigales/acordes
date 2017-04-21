@@ -12,6 +12,7 @@ Cuando pienso en lo que has si[Bb]do y hasta donde me has trai[Cm]do
 Me asombro de t[G#]i
 
 
+
 Pre-Coro
 [Cm]No me qui[Bb]ero conforma[G#]r
 [Cm]He prob[D#]ado y quiero [Bb]mas
@@ -31,7 +32,7 @@ Como un perfume a tus pies
 
 
 Puente
-Dm  -  C  -  Bb
+[Dm] [C] [Bb]
 
 
 [D#]Cuando pienso en tu cr[Bb]uz
@@ -62,17 +63,17 @@ Como un perfume a tus pies
 
 
 Puente
-Dm  -  C  -  Bb
+[Dm] [C] [Bb]
 
 
-Bb
-Yo quiero enamorarme mas
-C
-Yo quiero enamorarme mas
-Dm
-Yo quiero enamorarme mas
-G
-De ti    x2
+[Bb]Yo quiero enamorarme mas
+[C]Yo quiero enamorarme mas
+[Dm]Yo quiero enamorarme mas
+[G]De ti
+[Bb]Yo quiero enamorarme mas
+[C]Yo quiero enamorarme mas
+[Dm]Yo quiero enamorarme mas
+[G]De ti
 
 
 {start_of_chorus}
@@ -80,11 +81,6 @@ Coro
 [F]Yo quiero enamorarme mas de t[C]i
 Ensename a amarte y a viv[Dm]ir
 Conforme a tu just[C]icia y tu verd[Bb]ad
-Con mi vida quiero a[C]dorar[F]
-Todo lo que tengo y lo que s[C]oy
-Todo lo que he sido te lo d[Dm]oy
-Que mi vida se[C]a para t[Bb]i
-Como un perfume a tus pies
 
 
 [G]Yo quiero enamorarme mas de t[D]i
@@ -98,12 +94,12 @@ Como un perfume a tus pies
 {end_of_chorus}
 
 
-C
-Yo quiero enamorarme mas
-D
-Yo quiero enamorarme mas
-Em
-Yo quiero enamorarme mas
-C
-De ti    x2
+[C]Yo quiero enamorarme mas
+[D]Yo quiero enamorarme mas
+[Em]Yo quiero enamorarme mas
+[C]De ti
+[C]Yo quiero enamorarme mas
+[D]Yo quiero enamorarme mas
+[Em]Yo quiero enamorarme mas
+[C]De ti
 
