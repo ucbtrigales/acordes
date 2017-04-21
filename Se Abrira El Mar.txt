@@ -18,6 +18,7 @@ Lo que T[E]u vas a hac[F#]er
 Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
 
+
 Coro
 {soc}
 Se abrira el m[B]ar
@@ -26,6 +27,7 @@ Las naci[E]ones [F#]te oir[B]an[Bsus4]
 Tu pod[B]er mostrar[F#]as
 Y se har[E]a tu v[F#]olunt[G#m]ad
 {eoc}
+
 
 Puente
 [D#m] [E]
@@ -37,6 +39,7 @@ Mas Tu am[B]or seguir[Bsus4]a
 Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
 
+
 Mi alab[B]aza dar[Bsus4]e
 En Ti m[B]e gozar[Bsus4]e
 Y mis o[G#m]jos ver[D#m]an
@@ -44,14 +47,43 @@ Lo que T[E]u vas a hac[F#]er
 Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
 
-/Coro/
+Coro
+{soc}
+Se abrira el m[B]ar
+Al habl[F#]ar
+Las naci[E]ones [F#]te oir[B]an[Bsus4]
+Tu pod[B]er mostrar[F#]as
+Y se har[E]a tu v[F#]olunt[G#m]ad
+
+
+Se abrira el m[B]ar
+Al habl[F#]ar
+Las naci[E]ones [F#]te oir[B]an[Bsus4]
+Tu pod[B]er mostrar[F#]as
+Y se har[E]a tu v[F#]olunt[G#m]ad
+{eoc}
 
 Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
 Cristo v[G#m]oy a mirar
 Lo que T[E]u vas a hac[F#]er
 
-/Coro/
+Coro
+{soc}
+Se abrira el m[B]ar
+Al habl[F#]ar
+Las naci[E]ones [F#]te oir[B]an[Bsus4]
+Tu pod[B]er mostrar[F#]as
+Y se har[E]a tu v[F#]olunt[G#m]ad
+
+
+Se abrira el m[B]ar
+Al habl[F#]ar
+Las naci[E]ones [F#]te oir[B]an[Bsus4]
+Tu pod[B]er mostrar[F#]as
+Y se har[E]a tu v[F#]olunt[G#m]ad
+{eoc}
+
 
 ///Y se har[G#m]a Tu v[D#m]olunt[E]ad///
 
