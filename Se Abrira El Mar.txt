@@ -6,10 +6,12 @@ Intro
 [G#m] [D#m] [E]
 [G#m] [D#m] [E]
 
+
 Si me f[B]alta pasi[Bsus4]on
 Toca m[B]i coraz[Bsus4]on
 Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
+
 
 Si algo n[B]o puedo v[Bsus4]er
 Fortal[B]ece mi [Bsus4]fe
@@ -19,14 +21,14 @@ Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
 
 
+{start_of_chorus}
 Coro
-{soc}
 Se abrira el m[B]ar
 Al habl[F#]ar
 Las naci[E]ones [F#]te oir[B]an[Bsus4]
 Tu pod[B]er mostrar[F#]as
 Y se har[E]a tu v[F#]olunt[G#m]ad
-{eoc}
+{end_of_chorus}
 
 
 Puente
@@ -47,8 +49,9 @@ Lo que T[E]u vas a hac[F#]er
 Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
 
+
+{start_of_chorus}
 Coro
-{soc}
 Se abrira el m[B]ar
 Al habl[F#]ar
 Las naci[E]ones [F#]te oir[B]an[Bsus4]
@@ -61,15 +64,18 @@ Al habl[F#]ar
 Las naci[E]ones [F#]te oir[B]an[Bsus4]
 Tu pod[B]er mostrar[F#]as
 Y se har[E]a tu v[F#]olunt[G#m]ad
-{eoc}
+{end_of_chorus}
 
+
+Puente
 Y mis o[G#m]jos ver[D#m]an
 Lo que T[E]u vas a hac[F#]er
 Cristo v[G#m]oy a mirar
 Lo que T[E]u vas a hac[F#]er
 
+
+{start_of_chorus}
 Coro
-{soc}
 Se abrira el m[B]ar
 Al habl[F#]ar
 Las naci[E]ones [F#]te oir[B]an[Bsus4]
@@ -82,7 +88,7 @@ Al habl[F#]ar
 Las naci[E]ones [F#]te oir[B]an[Bsus4]
 Tu pod[B]er mostrar[F#]as
 Y se har[E]a tu v[F#]olunt[G#m]ad
-{eoc}
+{end_of_chorus}
 
 
 ///Y se har[G#m]a Tu v[D#m]olunt[E]ad///

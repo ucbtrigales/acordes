@@ -5,19 +5,22 @@
 [C#m] [E] [F#m] [G#m]
 [C#m] [E] [F#m] [G#m]
 
+
 [E]Veo al Rey de Gloria,
 [C#m]en las nubes con poder
 la tierra s[F#m]e estremece.[B]
 
+
 [C#m]
+
 
 [E]Veo su misericordia
 [C#m]quitando el pecado hoy,
 la gente el[F#m]evara su voz.[B]
 
 
-Coro
 {start_of_chorus}
+Coro
 H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
 Hos[A]anna en las alt[C#m]ura[B]s.
 H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
@@ -35,8 +38,8 @@ Y creer[F#m]an con tanta fe.[B]
 me rindo a t[F#m]i en oracio[B]n.
 
 
-Coro
 {start_of_chorus}
+Coro
 H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
 Hos[A]anna en las alt[C#m]ura[B]s.
 H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
@@ -62,8 +65,8 @@ Puente
 [C#m] [E] [F#m] [G#m]
 
 
-Coro
 {start_of_chorus}
+Coro
 H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
 Hos[A]anna en las alt[C#m]ura[B]s.
 H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
