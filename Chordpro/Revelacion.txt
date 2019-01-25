@@ -1,0 +1,22 @@
+{title:Revelacion}
+{key:D}
+
+Intro: [D] [Am] [C] [G] [D] [Am] [C] [G]
+
+[D]Digno es el [Am]Cordero Santo
+[C]Santo, Santo es [G]el
+[D]Levantamos [Am]nuestra alabanza
+[C]Al que en el trono [G]esta
+
+{start_of_chorus}
+[D] Santo, Santo, Santo
+[Am] Dios todopoderoso
+[C] Quien fue, quien es y quien ven[G]dra
+[D] La creacion hoy canta
+[Am] Y damos gloria a el
+[C] Tu eres digno por [G]siempre y siempre
+{end_of_chorus}
+
+Interludio:
+[Em] [D/F#] [Bb] [C]
+[D] [Em] [G/B] [Bb] [C] [D]

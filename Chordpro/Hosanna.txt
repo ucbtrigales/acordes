@@ -1,0 +1,81 @@
+
+{title: Hosanna}
+{key: E}
+
+[C#m] [E] [F#m] [G#m]
+[C#m] [E] [F#m] [G#m]
+
+
+[E]Veo al Rey de Gloria,
+[C#m]en las nubes con poder
+la tierra s[F#m]e estremece.[B]
+
+
+[C#m]
+
+
+[E]Veo su misericordia
+[C#m]quitando el pecado hoy,
+la gente el[F#m]evara su voz.[B]
+
+
+{start_of_chorus}
+Coro
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+{end_of_chorus}
+
+
+[E]Veo las generaciones
+[C#m]fuertes se levantaran
+Y creer[F#m]an con tanta fe.[B]
+
+
+[E]Veo un avivamiento
+[C#m]te buscamos con pasion,
+me rindo a t[F#m]i en oracio[B]n.
+
+
+{start_of_chorus}
+Coro
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+{end_of_chorus}
+
+
+Puente
+[C#m] [E] [F#m] [G#m]
+
+
+[A]Limpia oh Dios mi corazo[B]n!
+[E]Con tus ojos yo quiero v[C#m]er Senor,
+[A]quiero amar tal como t[B]u me amas.[C#m]
+
+
+[A]Hazme un nuevo ser en t[B]i,
+[E]por tu reino yo dese[C#m]o vivir,
+[A]tu gracia me regal[B]o la eternidad.[C#m]
+
+
+Puente
+[C#m] [E] [F#m] [G#m]
+
+
+{start_of_chorus}
+Coro
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+
+
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+H[E/G#]osann[A]a, Hos[B]ann[C#m]a,
+Hos[A]anna en las alt[C#m]ura[B]s.
+{end_of_chorus}
+

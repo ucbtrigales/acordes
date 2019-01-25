@@ -1,0 +1,29 @@
+{title:Dios del Universo}
+{subtitle:}
+{key:A}
+
+//[E]   [A/F#]Dios del Uni[D]verso
+[E]   [A/F#]Del cielo, tierra y [D]mar
+[E]   [A/F#]Los cielos son tu habita[D]cion
+[E]   [A/F#]Gloria en las altu[D]ras//
+
+{start_of_chorus}
+[A]Dios de Gloria, por la eterni[E]dad
+Eres [Bm]Santo, [D]Santo
+Los [A]cielos cuentan de tu majes[E]tad
+Eres [Bm]Santo, [D]Santo
+//[D]Dios de toda creacion//
+{end_of_chorus}
+
+[E]   [A/F#]Temprano en la ma[D]nana
+[E]   [A/F#]Yo celebrare la [D]luz
+[E]   [A/F#]Si las tinieblas me ro[D]dean
+[E]   [A/F#]De noche te invoca[D]re
+
+{start_of_bridge}
+[Bm] Aleluya al [D]Dios de [E]cielo y tierra
+[Bm] Aleluya al [D]Dios de [E]toda creacion
+[Bm] Aleluya al [D]Dios de [E]cielo y tierra
+[Bm] Aleluya a [D]nuestro Dios [E]
+////[Bm](inter[D]lu[E]dio)////
+{end_of_bridge}
